@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 # __author__ = 'Omega'
 #created on 20190706 by omega for practice
-#If any advice let me know dk2086@126.com
+#If any advice let me know---------emai: dk2086@126.com  
 
 import tkinter as TK
 # 主窗口
